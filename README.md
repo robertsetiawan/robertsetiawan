@@ -1,3 +1,4 @@
+My name is Agung and I’m living in Tegal, but now I'm learning at Diponegoro University, majoring in Informatics, and Android Mobile Development. I’m looking for an internship to impove my skills.
 
 <p align="left">
 <a href="https://github.com/robertsetiawan">
